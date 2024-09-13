@@ -1,6 +1,3 @@
-Here’s the content in a well-organized markdown format:
-
----
 
 # Algorithm Patterns for Infrastructure Security
 
