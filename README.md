@@ -265,7 +265,3 @@
 - **Trade-offs**: May use extra memory.
 
 ---
-
-Each of these patterns is well-suited to specific security problems in infrastructure, such as **real-time monitoring**, **anomaly detection**, and **load balancing**. Understanding when to apply each pattern ensures efficient problem-solving in security systems.
-
----
